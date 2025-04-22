@@ -1,5 +1,5 @@
 # GestionTareas
-La aplicación ofrece la funcionalidad CRUD listar, agregar, actualizar y eliminar , implementando MVC
+Ejemplo donde se implementa el MVC para una aplicación para gestión de tareas. Aplicación de gestión de tareas (Task Management): Donde el modelo represente las tareas, el controlador maneje la lógica de agregar, eliminar y completar tareas, y la vista muestre la lista de tareas y permita al usuario interactuar con ellas.
 
 api : https://66302edec92f351c03d937e2.mockapi.io/api/taskmanagement/Task
 

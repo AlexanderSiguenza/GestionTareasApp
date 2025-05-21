@@ -3,6 +3,8 @@ Ejemplo donde se implementa el MVC para una aplicación para gestión de tareas.
 
 api : https://66302edec92f351c03d937e2.mockapi.io/api/taskmanagement/Task
 
+Documentacion deepwiki : https://deepwiki.com/AlexanderSiguenza/GestionTareasApp
+
 # @GET("Listar")
 <img src="https://github.com/AlexanderSiguenza/GestionTareas/blob/main/img/tarea1.png" alt="Descripción de la imagen" width="300" height="600">
 
